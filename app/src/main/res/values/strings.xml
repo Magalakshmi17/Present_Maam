@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Present_Maam</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_stafflogin">stafflogin</string>
+    <string name="title_activity_studentlogin">studentlogin</string>
+    <string name="title_activity_staffs">Staffs</string>
+    <string name="title_activity_students">Students</string>
+    <string name="title_activity_viewlist">Viewlist</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
